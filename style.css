@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+}
+
+#title1{
+height: 45px;
+width: 80%;
+font-size: 20px;
+font-style: italic;
+background-color: pink;
+}
+
+#camera{
+    border:2px dotted black;
+    width: 350px;
+    height: 300px;
+}
+
+#capture_image{
+    background-color: rgb(247, 9, 9);
+    height: 35px;
+    border: 1px solid white;
+    color:white;
+}
+
+#identify_image{
+    background-color: rgb(24, 235, 24);
+    height: 35px;
+    border: 1px solid white;
+    color:white;
+}
+
+h4{
+    color: rgb(241, 184, 77);
+}
